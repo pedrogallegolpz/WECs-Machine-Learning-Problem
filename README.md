@@ -1,4 +1,4 @@
-# Waver Energy Converters
+# Wave Energy Converters
 # Machine Learning
 Nuestro problema gira entorno a la obtención de energı́a renovables a través de las olas. El medio marino es una fuente de energı́a poco explotada y para la que se han ideado múltiples dispositivos para la obtención de energı́a renovable del mismo. Nuestro problema en concreto usa unos dispositivos WECs (Wave Energy Converters) denominados CETO.
 
